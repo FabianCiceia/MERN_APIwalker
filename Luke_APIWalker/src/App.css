@@ -1,0 +1,11 @@
+nav{
+  display: flex;
+  justify-content: space-around;
+}
+.nav-div{
+  display: flex;
+}
+.error-mensaje{
+  width: 80px;
+  color:red;
+}
